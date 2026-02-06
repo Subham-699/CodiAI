@@ -11,7 +11,7 @@ const Login = () => {
       {/* Brand Header */}
       <div className="mb-6 text-center">
         <h1 className="text-3xl font-bold tracking-tighter bg-gradient-to-r from-white via-red-500 to-red-800 bg-clip-text text-transparent">
-          TexasAI
+          CodiAI
         </h1>
       </div>
 
